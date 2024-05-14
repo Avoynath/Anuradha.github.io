@@ -147,8 +147,7 @@ h2{
     text-align: center;
 }
 .fot {
-    max-width: 100%;
-    height: auto;
+    width: 20%;
 }
 li span {
     position: relative;
